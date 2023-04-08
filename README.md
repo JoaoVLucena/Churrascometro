@@ -9,3 +9,4 @@ LOGICA:
 
 Oque foi treinado?
 ⁜ Interação do Javascript com o HTML atraves do document.getElementById.
+![image](https://user-images.githubusercontent.com/130236840/230730268-d006d805-b4e6-461e-bebc-b8de05a67ce2.png)
