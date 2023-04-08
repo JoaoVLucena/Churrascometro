@@ -9,4 +9,15 @@ LOGICA:
 
 Oque foi treinado?
 ⁜ Interação do Javascript com o HTML atraves do document.getElementById.
-![image](https://user-images.githubusercontent.com/130236840/230730268-d006d805-b4e6-461e-bebc-b8de05a67ce2.png)
+
+
+
+Digitando a quantidade de pessoas:
+
+![image](https://user-images.githubusercontent.com/130236840/230730299-d16378a6-d4bd-4450-a485-86311384b973.png)
+
+
+Resultado apresentado:
+
+![image](https://user-images.githubusercontent.com/130236840/230730310-71cd7f0f-66e5-4898-bd36-9c35f325e00b.png)
+
